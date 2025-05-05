@@ -14,6 +14,10 @@
 
 ![image](https://github.com/user-attachments/assets/57a9b932-fa8a-4bad-b8cb-b38b109b728b)
 
+### d) Install Terraform Plugin in jenkins
+
+![image](https://github.com/user-attachments/assets/772ae3b3-78fd-4dc9-92af-b074ab24f7cd)
+
 ### Step d) Now create the terraform Pipeline in Parameterized form
 
 ![image](https://github.com/user-attachments/assets/f1a5c823-9dbe-4911-8c7c-fe0ca5d9fd44)
